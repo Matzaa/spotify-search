@@ -1,0 +1,64 @@
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(
+        circle,
+        rgba(238, 174, 202, 1) 0%,
+        rgba(148, 187, 233, 1) 100%
+    );
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+#results-container {
+    width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+#results-container div {
+    margin: 10px 40px 10px 40px;
+    width: 200px;
+    height: 300px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Helvetica;
+    text-decoration: none;
+}
+
+h1 {
+    margin: 40px;
+}
+
+#search {
+    margin: 0px 0px 30px 40px;
+}
+
+#searchresults {
+    margin-left: 40px;
+}
+
+#more {
+    margin: 30px;
+    padding: 10px;
+    font-family: Helvetica;
+}
+
+#withbutton {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    cursor: pointer;
+}
