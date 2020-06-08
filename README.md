@@ -8,4 +8,9 @@
           <p>
           Technologies: JavaScript, JQuery, AJAX
           </p>
-   <video src="./spotify.mov" loop muted autoPlay></video>
+          <p>
+  preview:
+  </p>
+  
+   <video src="spotify.mov" loop muted autoPlay/>
+
