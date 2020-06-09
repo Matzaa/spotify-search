@@ -8,8 +8,6 @@
           <p>
           Technologies: JavaScript, JQuery, AJAX
           </p>
-          <p>
-  preview:
-  </p>
+
 
 <img src="Spoti.gif" />
