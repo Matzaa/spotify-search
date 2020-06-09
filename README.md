@@ -12,4 +12,4 @@
   preview:
   </p>
 
-<img src="Spotify.gif" />
+<img src="Spoti.gif" />
