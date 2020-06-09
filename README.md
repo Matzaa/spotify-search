@@ -11,7 +11,6 @@
           <p>
   preview:
   </p>
-  
 
-   <video src="spotify.mov" width="320" height="200" controls preload></video>
 
+<img src="Spotify.gif" width="320" height="200" controls preload></video>
