@@ -12,5 +12,6 @@
   preview:
   </p>
   
-   <video src="spotify.mov" loop muted autoPlay/>
+
+   <video src="spotify.mov" width="320" height="200" controls preload></video>
 
